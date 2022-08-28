@@ -1,1 +1,2 @@
-we are adding this linefrom the cli after out first git puch/pull
+we are adding this linefrom the cli after out first git push/pull
+We want to try pulling directely from the remote repo
